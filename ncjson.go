@@ -1,4 +1,4 @@
-package main
+package goutil
 
 import "github.com/tidwall/gjson"
 
