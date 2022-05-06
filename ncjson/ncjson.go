@@ -1,4 +1,4 @@
-package goutil
+package ncjson
 
 import "github.com/tidwall/gjson"
 
