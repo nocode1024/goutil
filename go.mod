@@ -1,4 +1,4 @@
-module goutil
+module github.com/nocode1024/goutil
 
 go 1.18
 
